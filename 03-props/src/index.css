@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+
+
+.card{
+  width: 300px;
+  border: 2px solid white;
+  padding: 20px;
+  text-align: center; 
+   background-color: #222;
+   border-radius: 20px;
+}
+
+.parent{
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+ 
+
+}
+
+.card img {
+  height: 130px;
+  width: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+}
