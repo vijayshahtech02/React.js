@@ -16,7 +16,7 @@ const Card = (props) => {
       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex, similique!</p>
       <button>View Profile</button>
     </div>
-
+    
     </div>
   )
 }
