@@ -99,7 +99,7 @@ setNum(prev=>( prev + 1))
   return (
     <div>
       <h1>{num}</h1>
-    <button onClick={btnClick}>Click me</button>
+    <button onClick={btnClick}>Click  </button>
     </div>
   )
 }
